@@ -1,0 +1,30 @@
+[
+  {
+    "musicId": "0",
+    "name": "新•九九八十一(1)",
+    "poster": "http://res.lgdsunday.club/poster-7.png",
+    "path": "http://10.16.44.50/music/test.mp3",
+    "author": "ldy yzl"
+  },
+  {
+    "musicId": "1",
+    "name": "新•九九八十一(2)",
+    "poster": "http://res.lgdsunday.club/poster-1.png",
+    "path": "http://10.16.44.50/music/test.mp3",
+    "author": "ldy yzl"
+  },
+  {
+    "musicId": "2",
+    "name": "新•九九八十一(3)",
+    "poster": "http://res.lgdsunday.club/poster-2.png",
+    "path": "http://10.16.44.50/music/test.mp3",
+    "author": "ldy yzl"
+  },
+  {
+    "musicId": "3",
+    "name": "新•九九八十一(4)",
+    "poster": "http://res.lgdsunday.club/poster-3.png",
+    "path": "http://10.16.44.50/music/test.mp3",
+    "author": "ldy yzl"
+  }
+]
