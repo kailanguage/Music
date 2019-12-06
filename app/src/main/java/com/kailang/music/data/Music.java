@@ -24,6 +24,14 @@ public class Music {
     private String path;
     private String author;
 
+    public Music(String name, String path, String author) {
+        this.name = name;
+        this.path = path;
+        this.author = author;
+    }
+
+
+
     public int getMusicId() {
         return musicId;
     }

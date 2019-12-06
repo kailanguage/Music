@@ -69,6 +69,12 @@ public class MediaPlayerHelp {
         }
 
 //        3、准备播放
+//        try {
+//            mMediaPlayer.prepare();
+//        }catch (Exception e){
+//            e.printStackTrace();
+//        }
+
         mMediaPlayer.prepareAsync();
         mMediaPlayer.setOnPreparedListener(new MediaPlayer.OnPreparedListener() {
             @Override
@@ -110,6 +116,7 @@ public class MediaPlayerHelp {
     /**
      * 暂停播放
      */
+
     public void pause () {
         mMediaPlayer.pause();
     }

@@ -36,6 +36,10 @@ public class MusicService extends Service {
             mMusicModel = musicModel;
         }
 
+        public MediaPlayerHelp getMediaPlayerHelp() {
+            return mMediaPlayerHelp;
+        }
+
         /**
          * 播放音乐
          */
@@ -81,7 +85,6 @@ public class MusicService extends Service {
     @Override
     public void onCreate() {
         super.onCreate();
-
         mMediaPlayerHelp = MediaPlayerHelp.getInstance(this);
     }
 

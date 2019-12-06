@@ -1,30 +1,44 @@
 [
   {
     "musicId": "0",
-    "name": "新•九九八十一(1)",
-    "poster": "http://res.lgdsunday.club/poster-7.png",
-    "path": "http://10.16.44.50/music/test.mp3",
-    "author": "ldy yzl"
+    "name": "起风了",
+    "poster": "https://gss3.bdstatic.com/-Po3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=49be5cc870f40ad115e4c0e56f1776e2/cdbf6c81800a19d8fffbeff538fa828ba71e4641.jpg",
+    "path": "http://sc1.111ttt.cn/2018/1/03/13/396131213056.mp3",
+    "author": "买辣椒也用券"
   },
   {
     "musicId": "1",
-    "name": "新•九九八十一(2)",
-    "poster": "http://res.lgdsunday.club/poster-1.png",
-    "path": "http://10.16.44.50/music/test.mp3",
-    "author": "ldy yzl"
+    "name": "凉凉",
+    "poster": "https://gss3.bdstatic.com/7Po3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D500/sign=e62e20129682d158bf8259b1b00b19d5/a5c27d1ed21b0ef42cf23ea2d7c451da81cb3e37.jpg",
+    "path": "http://sc1.111ttt.cn/2017/1/05/09/298092032442.mp3",
+    "author": "冯提莫"
   },
   {
     "musicId": "2",
-    "name": "新•九九八十一(3)",
-    "poster": "http://res.lgdsunday.club/poster-2.png",
+    "name": "新•九九八十一",
+    "poster": "https://gss3.bdstatic.com/7Po3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=e43ee96edd58ccbf1fbcb23829dabcd4/1ad5ad6eddc451dad62b4c37bafd5266d1163208.jpg",
     "path": "http://10.16.44.50/music/test.mp3",
-    "author": "ldy yzl"
+    "author": "纯白P"
   },
   {
     "musicId": "3",
-    "name": "新•九九八十一(4)",
-    "poster": "http://res.lgdsunday.club/poster-3.png",
-    "path": "http://10.16.44.50/music/test.mp3",
-    "author": "ldy yzl"
+    "name": "追光者",
+    "poster": "https://gss0.bdstatic.com/-4o3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D500/sign=28b54150c7ef7609380b999f1edca301/5fdf8db1cb1349542d62ada95a4e9258d0094afa.jpg",
+    "path": "http://sc1.111ttt.cn/2017/1/11/11/304112002347.mp3",
+    "author": "岑宁儿"
+  },
+  {
+    "musicId": "4",
+    "name": "我们不一样",
+    "poster": "https://gss1.bdstatic.com/-vo3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D500/sign=5bbc325392510fb37c197797e932c893/4bed2e738bd4b31c3a70e8518bd6277f9f2ff888.jpg",
+    "path": "http://sc1.111ttt.cn/2017/1/11/11/304112002493.mp3",
+    "author": "大壮"
+  },
+  {
+    "musicId": "5",
+    "name": "远走高飞",
+    "poster": "https://ss0.baidu.com/-Po3dSag_xI4khGko9WTAnF6hhy/baike/pic/item/f9198618367adab4118f876581d4b31c8701e4bd.jpg",
+    "path": "http://sc1.111ttt.cn/2017/1/11/11/304112003137.mp3",
+    "author": "金志文"
   }
 ]

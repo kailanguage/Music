@@ -16,36 +16,36 @@
             android:layout_height="match_parent"
             android:orientation="vertical">
 
-            <LinearLayout
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:orientation="horizontal"
-                android:gravity="center_vertical"
-                android:layout_marginTop="@dimen/marginSize"
-                android:layout_marginLeft="@dimen/marginSize"
-                android:layout_marginBottom="@dimen/marginSize">
+<!--            <LinearLayout-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:orientation="horizontal"-->
+<!--                android:gravity="center_vertical"-->
+<!--                android:layout_marginTop="@dimen/marginSize"-->
+<!--                android:layout_marginLeft="@dimen/marginSize"-->
+<!--                android:layout_marginBottom="@dimen/marginSize">-->
 
-                <View
-                    android:layout_width="4dp"
-                    android:layout_height="22dp"
-                    android:background="@color/mainColor"/>
+<!--                <View-->
+<!--                    android:layout_width="4dp"-->
+<!--                    android:layout_height="22dp"-->
+<!--                    android:background="@color/mainColor"/>-->
 
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:text="推荐歌单"
-                    android:textColor="@color/titleColor"
-                    android:textSize="@dimen/titleSize"
-                    android:textStyle="bold"
-                    android:layout_marginLeft="@dimen/marginTabSize"/>
+<!--                <TextView-->
+<!--                    android:layout_width="wrap_content"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:text="推荐歌单"-->
+<!--                    android:textColor="@color/titleColor"-->
+<!--                    android:textSize="@dimen/titleSize"-->
+<!--                    android:textStyle="bold"-->
+<!--                    android:layout_marginLeft="@dimen/marginTabSize"/>-->
 
-            </LinearLayout>
+<!--            </LinearLayout>-->
 
-            <androidx.recyclerview.widget.RecyclerView
-                android:id="@+id/rv_grid"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                ></androidx.recyclerview.widget.RecyclerView>
+<!--            <androidx.recyclerview.widget.RecyclerView-->
+<!--                android:id="@+id/rv_grid"-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                ></androidx.recyclerview.widget.RecyclerView>-->
 
 
             <LinearLayout
@@ -63,7 +63,7 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="最热音乐"
+                    android:text="Music"
                     android:textColor="@color/titleColor"
                     android:textSize="@dimen/titleSize"
                     android:textStyle="bold"
@@ -77,6 +77,36 @@
                 android:layout_height="wrap_content">
             </androidx.recyclerview.widget.RecyclerView>
 
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/marginSize"
+                android:layout_marginTop="@dimen/marginSize"
+                android:layout_marginBottom="@dimen/marginSize"
+                android:gravity="center_vertical"
+                android:orientation="horizontal">
+
+                <View
+                    android:layout_width="4dp"
+                    android:layout_height="22dp"
+                    android:background="@color/mainColor" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/marginTabSize"
+                    android:text="Video"
+                    android:textColor="@color/titleColor"
+                    android:textSize="@dimen/titleSize"
+                    android:textStyle="bold" />
+
+            </LinearLayout>
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/rv_grid"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"></androidx.recyclerview.widget.RecyclerView>
 
         </LinearLayout>
 
